@@ -1,0 +1,20 @@
+.imgss{
+height:235px
+
+}
+.my-button{
+
+ background-color:#3776ab ;
+ color:black;
+ font-family:bold;
+ border:none;
+ border-radius:6px;
+ cursor:pointer;
+}
+.my-button:hover{
+background-color:black;
+color:white;
+}
+
+.my-button:active{
+opacity:0.7}
